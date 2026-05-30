@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Smart_Parking_Deploy
 =======
 # 🚗 Smart Parking ALPR System
@@ -169,4 +169,4 @@ smart_parking/
 4. Guo et al., "Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement," CVPR 2020
 5. Xu et al., "CCPD: Towards End-to-End License Plate Detection and Recognition," ECCV 2018
 6. Roboflow Universe, "License Plate Recognition Dataset v11," 2024
->>>>>>> master
+
